@@ -1,4 +1,7 @@
 ## Hi there 👋
+- 🔭 I’m minghua2wang
+- 🌱 I’m passionate about cybersecurity
+- 👯 You can reach me at mingh.w5631@gmail.com
 
 <!--
 **minghua2wang/minghua2wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
