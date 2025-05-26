@@ -3,7 +3,7 @@
 - 🌱 I’m passionate about cybersecurity
 - ⚡ Certificates: CompTIA Security+ | ISC2 CC(Certified in Cybersecurity) | Google Cybersecurity certificate | Google (AI)Prompt Essentials |
 - 👯 You can reach me at mingh.w5631@gmail.com
-- 💬 Building homelab
+- 💬 Currently working on Tryhackme SOC level 1 and CCNA...
 <!--
 **minghua2wang/minghua2wang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
